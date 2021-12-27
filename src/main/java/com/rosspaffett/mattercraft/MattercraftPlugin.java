@@ -13,7 +13,7 @@ import java.nio.file.Path;
 @Plugin(
     id = "mattercraft",
     name = "Mattercraft",
-    version = "1.0.0+3.1.1-SNAPSHOT",
+    version = "1.0.0+3.1.1",
     url = "https://github.com/raws/minecraft-velocity-mattercraft",
     description = "Connect a Velocity Minecraft proxy server to a Matterbridge chat server",
     authors = {"Ross Paffett"}
